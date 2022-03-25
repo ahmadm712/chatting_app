@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "890834028956",
+    "project_id": "dicoding-chat-app",
+    "storage_bucket": "dicoding-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890834028956:android:6c74c20f6336910acea059",
+        "android_client_info": {
+          "package_name": "com.dicoding.dicoding_chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890834028956-6v27qtelfns0ef8t94non0d5enn81u82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyUarXRrBHQXcYElmz2_8LmBZxzYe500s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890834028956-6v27qtelfns0ef8t94non0d5enn81u82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890834028956:android:e6b84a82fa1c7ae0cea059",
+        "android_client_info": {
+          "package_name": "com.example.chatting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890834028956-6v27qtelfns0ef8t94non0d5enn81u82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyUarXRrBHQXcYElmz2_8LmBZxzYe500s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890834028956-6v27qtelfns0ef8t94non0d5enn81u82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
